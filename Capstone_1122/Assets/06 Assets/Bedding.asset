@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8822d97e50288724899a93437ed07410, type: 3}
+  m_Name: Bedding
+  m_EditorClassIdentifier: 
+  itemDesc: "\uC774\uBD88\n\uCDE8\uC9D0\uC2DC \uC815\uC2E0\uB825\uC744 \uC62C\uB824\uC8FC\uACE0
+    \uCCB4\uC628\uC744 \uC720\uC9C0\uD574 \uC900\uB2E4"
+  itemType: 3
+  itemName: Bedding
+  itemImage: {fileID: 21300000, guid: 4ab064f5d93624283aacc88858bd06b0, type: 3}
+  itemPrefab: {fileID: 936901231046548821, guid: e75e2c76b064246ddbdfc73a6ff14b5d, type: 3}

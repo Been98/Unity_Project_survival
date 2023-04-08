@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8822d97e50288724899a93437ed07410, type: 3}
+  m_Name: MeatChicken
+  m_EditorClassIdentifier: 
+  itemDesc: "\uB2ED\uACE0\uAE30\n\uCCB4\uB825 +10\n\uBC30\uBD80\uB984 +10\n"
+  itemType: 1
+  itemName: Chicken
+  itemImage: {fileID: -1171106304, guid: e20b442d451377d44948b27ef15a6a24, type: 3}
+  itemPrefab: {fileID: 2260885791378883172, guid: 5e59db70787124a4f864380ee7ebf90b, type: 3}

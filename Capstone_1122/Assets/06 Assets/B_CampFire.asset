@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85f99aa616afe964298e28c4074c3cb5, type: 3}
+  m_Name: B_CampFire
+  m_EditorClassIdentifier: 
+  txtItemExplan: "\uBD88"
+  total_count: 2
+  cost_tree: 4
+  cost_bigtree: 0
+  cost_stone: 4
+  cost_vine: 0
+  img: {fileID: 21300000, guid: 66fffd572e0fc4124af375a401df3220, type: 3}
